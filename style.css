@@ -4,6 +4,7 @@ body{background-color: #666;}
   box-sizing: border-box;
 }
 .card {
+    position: relative;
   display: flex;
   flex-direction: column;
   gap: 10px;
