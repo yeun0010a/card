@@ -1,3 +1,4 @@
+body{background-color: #666;}
 .card,
 .card * {
   box-sizing: border-box;
@@ -9,6 +10,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   position: relative;
+  margin: 300px;
 }
 .w-box {
   flex-shrink: 0;
