@@ -26,6 +26,7 @@ body{background-color: #666;}
   position: absolute;
   left: calc(50% - 332.27px);
   top: 0px;
+  padding: 30PX;
 }
 .text {
   display: flex;
@@ -34,9 +35,6 @@ body{background-color: #666;}
   align-items: center;
   justify-content: flex-start;
   flex-shrink: 0;
-  position: absolute;
-  left: 37px;
-  top: 27.27px;
 }
 .tgr {
   display: flex;
@@ -103,6 +101,7 @@ body{background-color: #666;}
   flex-shrink: 0;
   position: relative;
   overflow: hidden;
+  
 }
 .d-3 {
   color: #ffffff;
