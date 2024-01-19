@@ -1,0 +1,112 @@
+.card,
+.card * {
+  box-sizing: border-box;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.w-box {
+  flex-shrink: 0;
+  width: 664.54px;
+  height: 100.99px;
+  position: static;
+}
+.box {
+  background: #ffffff;
+  border-radius: 30.3px 0px 30.3px 0px;
+  width: 664.54px;
+  height: 100.99px;
+  position: absolute;
+  left: calc(50% - 332.27px);
+  top: 0px;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  gap: 144px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 37px;
+  top: 27.27px;
+}
+.tgr {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.tinner {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.as {
+  color: var(--sk-pic-point-color, #e0002b);
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14.13907241821289px;
+  font-weight: 700;
+  position: relative;
+  width: 115px;
+  height: 24px;
+}
+._2024-01-19 {
+  color: #858585;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  position: relative;
+}
+._23-4-house-hr {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20.198673248291016px;
+  font-weight: 600;
+  position: relative;
+}
+.btn {
+  background: var(--sk-pic-point-color, #e0002b);
+  border-radius: 50.5px;
+  padding: 4px 29px 4px 29px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.d-3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16.158939361572266px;
+  font-weight: 700;
+  position: relative;
+}
